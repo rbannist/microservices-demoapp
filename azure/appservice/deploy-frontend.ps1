@@ -5,8 +5,8 @@
 
 # CHANGE THESE!
 param (
-    [string]$appService = "smilr-live",
-    [string]$deployUser = "bcdeployer"
+    [string]$appService = "rb-ne-smilr-tst-a01",
+    [string]$deployUser = "barichar"
 )
 
 # Don't change these
